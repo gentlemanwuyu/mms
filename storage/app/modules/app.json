@@ -1,0 +1,22 @@
+{
+    "Feed": {
+        "basename": "Feed",
+        "name": "Feed",
+        "slug": "feed",
+        "version": "1.0",
+        "description": "This is the description for the Feed module.",
+        "id": 591414443,
+        "enabled": true,
+        "order": 9001
+    },
+    "Shopify": {
+        "basename": "Shopify",
+        "name": "Shopify",
+        "slug": "shopify",
+        "version": "1.0",
+        "description": "This is the description for the Shopify module.",
+        "id": 2305699305,
+        "enabled": true,
+        "order": 9001
+    }
+}
